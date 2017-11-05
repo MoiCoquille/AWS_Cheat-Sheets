@@ -44,7 +44,7 @@ Other supported OS | Fedora, Debian, CentOS, Gentoo Linux, Oracle Linux & FreeBS
 Security Groups	| 
 --------------- | 	
  | Virtual firewall that controls traffic.				
- | ALLOW traffic only, the rest is DENIED.				
+ | ALLOW rules only			
  | Associated with a Network Interface.				
  | Stateful outbound and INBOUND.			
  | Default for custom SG is to ALLOW all outbound and DENY all inbound.				
@@ -67,7 +67,7 @@ Reserved | No, partial or full upfront
    || Can change instance family.
    || Can only be exchanged to same or higher payment option.
    || Can exchange for 1 or many instances as long as the price is equal or higher.
-SPOT | Use spare capacity at Market Price.
+SPOT | Bid on spare capacity at Market Price.
 Dedicated Instance | Hourly usage fee + per region fee
    || Dedicated physical server/host
    || Per instance billing
