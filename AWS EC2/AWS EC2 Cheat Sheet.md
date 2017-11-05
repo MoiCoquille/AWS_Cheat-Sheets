@@ -36,16 +36,16 @@ Other supported OS | Fedora, Debian, CentOS, Gentoo Linux, Oracle Linux & FreeBS
 
 
 			
-Security Groups	| Details
---------------- | -------------			
+Security Groups	| 
+--------------- | 	
  | -Virtual firewall that controls traffic.				
  | -ALLOW traffic only, the rest is DENIED.				
  | -Associated with a Network Interface.				
  | -Stateful outbound and INBOUND.			
  | -Default for custom SG is to ALLOW all outbound and DENY all inbound.				
-SG per VPC (per region)	| 500			
-Rules per SG	| 50			
-SG per Network Interface	| 5			
+ | -500 SG per VPC (per region)		
+ | -50 Rules per SG		
+ | -5 SG per Network Interface		
 
 Has its own Cheat Sheet |
 ------------------------ |
