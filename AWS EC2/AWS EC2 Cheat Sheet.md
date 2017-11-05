@@ -28,7 +28,7 @@ Default | 20 instances per account.
 
 Instance | AMIs			  
 ---------|-----------
-AWS | Linux, Redhat, Suse Ubuntu & Microsoft			  	
+AWS | Linux, Redhat, Suse Ubuntu & Windows			  	
 Market Place | Purchasable AMIs			     	
 Custom | Your own AMIs			  	
 Community | Shared and free AMIs			
@@ -46,4 +46,9 @@ Security Groups	| Details
 SG per VPC (per region)	| 500			
 Rules per SG	| 50			
 SG per Network Interface	| 5			
+
+Has its own Cheat Sheet |
+------------------------ |
+ | Auto Scaling  
+ | Elastic Load Balancing  
 			
