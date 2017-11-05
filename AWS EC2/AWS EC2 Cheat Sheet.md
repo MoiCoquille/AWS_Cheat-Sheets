@@ -1,9 +1,9 @@
-AWS EC2 Cheat Sheet  			
-by Veronique Robitaille (v@indalit.com)
+AWS EC2 Cheat Sheet  
+by Veronique Robitaille (v@indalit.com)  
 
 
 Types of Instances	|	Details
-------------------- | ---------------------------
+------------------- | ----------------
 General Purpose	| T2, M3, M4		
 Compute Optimized	| C3, C4
 Memory Optimized | X1, R3, R4		
