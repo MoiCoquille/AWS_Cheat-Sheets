@@ -1,2 +1,5 @@
 # AWS_Cheat-Sheets
-A collection of Cheat Sheets created for each AWS service.
+Single page AWS EC2 Cheat Sheet
+
+Included
+* Types of Instances
