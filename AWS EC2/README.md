@@ -1,7 +1,7 @@
 # AWS_Cheat-Sheets
 Single page AWS EC2 Cheat Sheet
 
-Included
+Includes
 * Types of Instances
 * Instances Main Characteristics
 * Instance AMIs
@@ -13,6 +13,6 @@ Included
 * Auto Scaling
 * ELB Elastic Load Balancing
 
-by Veronique Robitaille 
-AWS Solutions Architect
-v@indalit.com
+by Veronique Robitaille  
+AWS Solutions Architect  
+v@indalit.com  
