@@ -18,11 +18,11 @@ vCPU | Virtual CPU
 Memory	| GiB		  
 Storage | Instance store, EBS SSD & HDD				 
 Enhanced Networking | Get higher PPS (packet per second)				
- | Lower jitter & latency				
-  | Must install driver and supported AMI				
-   | Not available on all instance types				
+ | -Lower jitter & latency				
+  | -Must install driver and supported AMI				
+   | -Not available on all instance types				
 EBS Optimized | Dedicated throughput/bandwidth from 425 Mbps to 14 000 Mbps.			
-    | Minimize contention between EBS I/O and other traffic from the instance.				
+    | -Minimize contention between EBS I/O and other traffic from the instance.				
 Default | 20 instances per account.		
 
 
