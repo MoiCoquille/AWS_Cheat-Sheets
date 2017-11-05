@@ -54,8 +54,8 @@ Security Groups	|
 
 
 
-Instances Pricing Model |  
-------------------------|
+Instances Pricing Model |  Details
+------------------------ | ------------------ 
 On-demand | Pay per second when instance is running
    || No contract
 Reserved | No, partial or full upfront
@@ -83,8 +83,8 @@ Scheduled | Pay for scheduled slots
 
 
   
-Other       |
------------ | 
+Other       | Details
+----------- | -------------
 EIP | Static IPv4 address (5 per region)
    || Associated to a Network Interface
    || Hourly charge if not used or more than one per instance.
