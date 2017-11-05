@@ -18,7 +18,7 @@ vCPU | Virtual CPU
 Memory	| GiB		  
 Storage | Instance store, EBS SSD & HDD				 
 Enhanced Networking | 
- | -Get higher PPS (packet per second)				
+ || -Get higher PPS (packet per second)				
  | -Lower jitter & latency				
  | -Must install driver and supported AMI				
  | -Not available on all instance types				
