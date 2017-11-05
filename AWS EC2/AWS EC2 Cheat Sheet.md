@@ -1,4 +1,4 @@
-AWS EC2 Cheat Sheet  
+**AWS EC2 Cheat Sheet**  
 by Veronique Robitaille (v@indalit.com)  
 
 
@@ -10,22 +10,23 @@ Memory Optimized | X1, R3, R4
 Accelerated Computing	| P2, P3, G3, F1			
 Storage Optimized	| I3, D2			
 
-Instances Main Characteristics				Modyfing, exchanging an instance is
-vCPU	Virtual CPU			only available on certain OS.
-Memory	GiB		  -  Standard	1 or 3 year contract
-Storage				Can exchange within same instance
-  -  Instance store, EBS SSD & HDD				 family using a normalisation factor.
-Enhanced Networking			  -  Convertible	3 year contract only
-  -  Get higher PPS (packet per second)				Can change instance family.
-  -  Lower jitter & latency				Can only be exchanged to same or 
-  -  Must install driver and supported AMI				higher payment option.
-  -  Not available on all instance types				Can exchange for 1 or many instances
-EBS Optimized				as long as the price is equal or higher.
-  -  Dedicated throughput/bandwidth 			SPOT	Use spare capacity at Market Price.
-     from 425 Mbps to 14 000 Mbps.			Dedicated Instance	Hourly usage fee + per region fee
-  -  Minimize contention between EBS I/O 				Dedicated physical server/host
-     and other traffic from the instance.				Per instance billing
-Default is 20 instances per account.				You can have dedicated SPOT instances.
+
+
+Instances Main Characteristics | Details
+------------------------------ | ------------------------				
+vCPU | Virtual CPU			
+Memory	| GiB		  
+Storage | Instance store, EBS SSD & HDD				 
+Enhanced Networking | Get higher PPS (packet per second)				
+  -  | Lower jitter & latency				
+  -  | Must install driver and supported AMI				
+  -  | Not available on all instance types				
+EBS Optimized | Dedicated throughput/bandwidth from 425 Mbps to 14 000 Mbps.			
+  -  | Minimize contention between EBS I/O and other traffic from the instance.				
+Default | 20 instances per account.		
+
+
+
 			Dedicated Host	Per host billing
 Instance AMIs			  -  Visibility of the number of sockets and physical cores.	
 AWS: Linux, Redhat, Suse Ubuntu & 			  -  Visibility and control over how instances are placed.	
