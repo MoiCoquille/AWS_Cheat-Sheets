@@ -2,7 +2,7 @@ AWS EC2 Cheat Sheet
 by Veronique Robitaille (v@indalit.com)
 
 
-Types of Instances	|	
+Types of Instances	|	Details
 ------------------- | ---------------------------
 General Purpose	| T2, M3, M4		
 Compute Optimized	| C3, C4
