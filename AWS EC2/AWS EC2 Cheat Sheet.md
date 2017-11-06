@@ -4,31 +4,41 @@ by Veronique Robitaille (v@indalit.com)
 **Download PDF for single page formatting** 
 
 
-Types of Instances	|	Details
+Types of Instances	|	Details |
 ------------------- | ----------------
-General Purpose	| T2, M3, M4		
-Compute Optimized	| C3, C4
-Memory Optimized | X1, R3, R4		
-Accelerated Computing	| P2, P3, G3, F1			
-Storage Optimized	| I3, D2			
+General Purpose	| T2, M3, M4		|
+Compute Optimized	| C3, C4 |
+Memory Optimized | X1, R3, R4 |		
+Accelerated Computing	| P2, P3, G3, F1 |			
+Storage Optimized	| I3, D2			|
 
 
 
-Instances Main Characteristics | Details
+Instances Main Characteristics | Details |
 ------------------------------ | ------------------------				
-vCPU | Virtual CPU			
+vCPU | Virtual CPU			|
 Memory	| GiB		  
-Storage | Instance store, EBS SSD & HDD				 
-Enhanced Networking | 
- || -Get higher PPS (packet per second)				
- || -Lower jitter & latency				
- || -Must install driver and supported AMI				
- || -Not available on all instance types				
-EBS Optimized | 
- || -Dedicated throughput/bandwidth from 425 Mbps to 14 000 Mbps.			
- || -Minimize contention between EBS I/O and other traffic from the instance.				
-Default | 20 instances per account.		
+Storage | Instance store, EBS SSD & HDD		|		 
+Enhanced Networking |  |
+ || -Get higher PPS (packet per second)			|	
+ || -Lower jitter & latency				|
+ || -Must install driver and supported AMI	|			
+ || -Not available on all instance types				|
+EBS Optimized | |
+ || -Dedicated throughput/bandwidth from 425 Mbps to 14 000 Mbps.		|	
+ || -Minimize contention between EBS I/O and other traffic from the instance.		|		
+Default | 20 instances per account.		|
 
+
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
 
 
 Instance | AMIs			  
