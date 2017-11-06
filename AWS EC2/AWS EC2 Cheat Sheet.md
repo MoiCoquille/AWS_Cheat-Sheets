@@ -3,9 +3,6 @@ by Veronique Robitaille (v@indalit.com)
   
 **Download PDF for single page formatting** 
 
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
 
 Types of Instances	|	Details |
 ------------------- | ----------------
@@ -15,7 +12,7 @@ Memory Optimized | X1, R3, R4 |
 Accelerated Computing	| P2, P3, G3, F1 |			
 Storage Optimized	| I3, D2			|
 
-</td><td>
+
 
 Instances Main Characteristics | Details |
 ------------------------------ | ------------------------				
@@ -32,24 +29,6 @@ EBS Optimized | |
  || -Minimize contention between EBS I/O and other traffic from the instance.		|		
 Default | 20 instances per account.		|
 
-</td></tr> </table>
-
-
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
-
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-
-</td></tr> </table>
 
 
 Instance | AMIs			  
