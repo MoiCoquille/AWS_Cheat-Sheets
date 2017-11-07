@@ -2,7 +2,7 @@
 by Veronique Robitaille (v@indalit.com)  	
 
 
-!!! Download PDF for single page formatting !!!
+**!!! Download PDF for single page formatting !!!**
 
 
   || Description | Application | Network | Classic |
@@ -13,8 +13,8 @@ Round Robin	|	Routing Algorithm, even distribution.	|	√	|		|	√
 Least Outstanding	|	Routing Algorithm, least connections.	|		|		|	√
 Flow Hash	|	Routing Algorithm, a hash of packet elements.	|		|	√	|	
 Configuration Specifications	|	Must be in one VPC.  Can be in many AZs.  Must be in a one subnet per AZ.	|	√	|	|		√
-Zonal isolation	|	Distributes traffic evenly in a single AZ.  Can fail over to other AZ or region if all targets in initial AZ are unhealthy.	|		|	√	|	
-Auto Scaling	|	Automatically register and deregister instances with ELB.	|	√	|	√	|	√
+Zonal Isolation	|	Distributes traffic evenly in a single AZ.  Can fail over to other AZ or region if all targets in initial AZ are unhealthy.	|		|	√	|	
+AWS Auto Scaling	|	Automatically register and deregister instances with ELB.	|	√	|	√	|	√
 Sticky Sessions	|	Mechanism to route requests from the same client to the same target or instance.	|	√	|		|	√
 Path/Host based routing	|	foo.com/images and images.foo.com	|	√	|    |			
 Multiple port routing	|	Route to many ports on single target.	|	√	|	√	|	
