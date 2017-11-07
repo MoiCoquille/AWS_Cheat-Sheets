@@ -8,7 +8,7 @@ by Veronique Robitaille (v@indalit.com)
 Protocols |	Layer 4 and layer 7 load balancing. Internet or internal facing ELB. | HTTP/HTTPS |	TCP	| TCP/SSL HTTP/HTTPS |
 Health Checks |	ELB monitors and sends traffic only to healthy targets or instances. | HTTP/HTTPS |	TCP HTTP/HTTPS | TCP/SSL HTTP/HTTPS
 Round Robin	|	Routing Algorithm, even distribution.	|	√	|		|	√
-Least Outstanding		Routing Algorithm, least connections.						√
+Least Outstanding	|	Routing Algorithm, least connections.	|		|		|	√
 Flow Hash	|	Routing Algorithm, a hash of packet elements.	|		|	√	|	
 Configuration Specifications		Must be in one VPC.  Can be in many AZs.  Must be in a one subnet per AZ.		√				√
 Zonal isolation	|	Distributes traffic evenly in a single AZ.  Can fail over to other AZ or region if all targets in initial AZ are unhealthy.	|		|	√	|	
