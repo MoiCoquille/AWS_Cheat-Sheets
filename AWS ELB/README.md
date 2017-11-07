@@ -3,7 +3,7 @@ by Veronique Robitaille (v@indalit.com)
 
 
 
- Something here | Description | Application | Network | Classic |
+  | Description | Application | Network | Classic |
 --------- | ----------- | ------------- | ---------- | ---------
 Protocols |	Layer 4 and layer 7 load balancing. Internet or internal facing ELB. | HTTP/HTTPS |	TCP	| TCP/SSL HTTP/HTTPS |
 Health Checks |	ELB monitors and sends traffic only to healthy targets or instances. | HTTP/HTTPS |	TCP HTTP/HTTPS | TCP/SSL HTTP/HTTPS
