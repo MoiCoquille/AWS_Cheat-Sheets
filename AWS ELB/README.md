@@ -2,13 +2,11 @@ AWS ELB (Elastic Load Balancing) Cheat Sheet
 by Veronique Robitaille (v@indalit.com)		
 
 
-						
+
 		| Description	|	Application	|	Network	|	Classic
 --------- | ----------- | ------------- | ---------- | ---------
-Protocols	|	Layer 4 and layer 7 load balancing. Internet or internal facing ELB.	|	HTTP/HTTPS	|	TCP	|	TCP/SSL HTTP/HTTPS
-								
-Health Checks	|	ELB monitors and sends traffic only to healthy targets or instances.	|	HTTP/HTTPS	|	TCP HTTP/HTTPS	|	TCP/SSL HTTP/HTTPS
-								
+Protocols |	Layer 4 and layer 7 load balancing. Internet or internal facing ELB. | HTTP/HTTPS |	TCP	| TCP/SSL HTTP/HTTPS
+Health Checks |	ELB monitors and sends traffic only to healthy targets or instances. | HTTP/HTTPS |	TCP HTTP/HTTPS | TCP/SSL HTTP/HTTPS
 Round Robin	|	Routing Algorithm, even distribution.	|	√	|		|	√
 Least Outstanding		Routing Algorithm, least connections.						√
 Flow Hash	|	Routing Algorithm, a hash of packet elements.	|		|	√	|	
