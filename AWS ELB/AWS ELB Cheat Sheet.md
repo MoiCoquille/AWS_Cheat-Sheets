@@ -1,5 +1,4 @@
 **AWS ELB (Elastic Load Balancing) Cheat Sheet**  
-
 by Veronique Robitaille (v@indalit.com)  	
 
 
