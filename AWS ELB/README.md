@@ -1,5 +1,8 @@
 AWS ELB (Elastic Load Balancing) Cheat Sheet								
-by Veronique Robitaille (v@indalit.com)								
+by Veronique Robitaille (v@indalit.com)		
+
+
+						
 		| Description	|	Application	|	Network	|	Classic
 --------- | ----------- | ------------- | ---------- | ---------
 Protocols	|	Layer 4 and layer 7 load balancing. Internet or internal facing ELB.	|	HTTP/HTTPS	|	TCP	|	TCP/SSL HTTP/HTTPS
