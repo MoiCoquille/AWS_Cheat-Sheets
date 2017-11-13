@@ -24,13 +24,13 @@ ces added/removed on the fly.	|
 Configuration Elements of Auto Scaling	|
 --------------------------------------- |
 Minimum Size	|
-  -  Minimum number of instances that	
+Minimum number of instances that	
      should always be running.	|
 Maximum Size	|
-  -  Maximum number of running ins-	
+Maximum number of running ins-	
      tances.	|
 Desired Capacity	|
-  -  Number of instances that should be	
+Number of instances that should be	
      running when there are no scaling	
      activites.	|
 	
