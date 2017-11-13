@@ -17,7 +17,7 @@ Storage Optimized | I3, D2      |
 
 
 What is Auto Scaling?	|
-----------------------
+---------------------- |
 A method by which you can have instan-	
 ces added/removed on the fly.	|
 	
