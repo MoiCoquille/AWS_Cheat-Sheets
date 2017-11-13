@@ -21,17 +21,18 @@ What is Auto Scaling?	|
 A method by which you can have instan-	
 ces added/removed on the fly.	|
 	
-Configuration Elements of Auto Scaling	
-Minimum Size	
+Configuration Elements of Auto Scaling	|
+--------------------------------------- |
+Minimum Size	|
   -  Minimum number of instances that	
-     should always be running.	
-Maximum Size	
+     should always be running.	|
+Maximum Size	|
   -  Maximum number of running ins-	
-     tances.	
-Desired Capacity	
+     tances.	|
+Desired Capacity	|
   -  Number of instances that should be	
      running when there are no scaling	
-     activites.	
+     activites.	|
 	
 Characteristics of Auto Scaling	
 Lifecycle Hooks	
