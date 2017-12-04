@@ -1,5 +1,5 @@
 # AWS_Cheat-Sheets
-Single page Amazon Glacier Cheat Sheet
+Amazon Glacier Cheat Sheet
 
 Includes
 * General Characteristics
