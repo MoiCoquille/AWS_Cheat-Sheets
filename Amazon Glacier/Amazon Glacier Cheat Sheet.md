@@ -10,10 +10,10 @@ Data is copied to multiple devices within a facility and to multiple facilities.
 Data is stored in Archives which are then stored in	Vaults.	|
 Durability 99.999999999% |
 Synchronous for upload, asynchronous for download |
-Only actions possible with Management Console are |
-|	Create Vault |
-|	Delete Vault |
-|	*The rest with AWS CLI, REST API, SDKs |
+Only actions possible with Management Console are: |
+   |	Create Vault |
+   |	Delete Vault |
+   |	*The rest with AWS CLI, REST API, SDKs |
 	
 Archives	
 Can be a single file or and aggregation of many in a 	
