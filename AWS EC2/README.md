@@ -1,5 +1,5 @@
 # AWS_Cheat-Sheets
-Single page AWS EC2 Cheat Sheet
+AWS EC2 Cheat Sheet
 
 Includes
 * Types of Instances

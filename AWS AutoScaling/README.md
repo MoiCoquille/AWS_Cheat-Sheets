@@ -1,5 +1,5 @@
 # AWS_Cheat-Sheets
-Single page AWS Auto Scaling Cheat Sheet
+AWS Auto Scaling Cheat Sheet
 
 Includes
 * What is Auto Scaling?

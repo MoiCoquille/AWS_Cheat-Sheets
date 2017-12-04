@@ -1,5 +1,5 @@
 # AWS_Cheat-Sheets
-Single page AWS ELB Cheat Sheet
+AWS ELB Cheat Sheet
 
 Includes
 * Protocols supported 
