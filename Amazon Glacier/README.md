@@ -1,5 +1,7 @@
-# AWS_Cheat-Sheets
-Amazon Glacier Cheat Sheet
+# AWS Cheat Sheet
+## Amazon Glacier Cheat Sheet
+
+<br />
 
 Includes
 * General Characteristics
@@ -13,6 +15,8 @@ Includes
 * Vault Locks
 * Data Retrieval Policies
 * Pricing
+
+<br />
 
 by Veronique Robitaille  
 AWS Solutions Architect  
