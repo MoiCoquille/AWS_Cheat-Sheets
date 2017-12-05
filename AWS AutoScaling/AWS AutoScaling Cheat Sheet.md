@@ -1,10 +1,9 @@
 **AWS Auto Scaling Cheat Sheet**  
 by Veronique Robitaille (v@indalit.com) 
-  
 <br />
-**!!! Check out PDF version !!!**
+** !!! Check out PDF version !!! **
 <br />
-
+<br />
 
 What is Auto Scaling?	|
 ---------------------- |
