@@ -1,8 +1,8 @@
-**AWS Auto Scaling Cheat Sheet**  
+# AWS Auto Scaling Cheat Sheet 
 by Veronique Robitaille (v@indalit.com) 
 <br />
 <br />
-* !!! Check out PDF version !!! *
+** Check out PDF version **
 <br />
 <br />
 
