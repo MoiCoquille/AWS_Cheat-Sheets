@@ -8,3 +8,9 @@ A collection of Cheat Sheets created for each AWS service.
 * AWS Auto Scaling
 * Amazon Glacier
 * more to come...
+
+<br />
+
+by Veronique Robitaille  
+AWS Solutions Architect  
+v@indalit.com  
