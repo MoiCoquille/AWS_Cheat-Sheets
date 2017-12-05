@@ -15,15 +15,22 @@ by Veronique Robitaille (v@indalit.com)
 		<td>A method by which you can have instances added/removed on the fly.</td>
 		<td></td>
 	</tr>
+		<tr>
+		<td align="center" colspan="2"><b>Configuration Elements of Auto Scaling</b></td>
+	</tr>
+	<tr>
+		<td>Minimum Size</td>
+		<td>Minimum number of instances that should always be running.</td>
+	</tr>
+		<tr>
+		<td>Maximum Size</td>
+		<td>Maximum number of running instances.</td>
+	</tr>
+		<tr>
+		<td>Desired Capacity</td>
+		<td>Number of instances that should be running when there are no scaling activites.</td>
+	</tr>
 </table>	
-
-
-
-Configuration Elements of Auto Scaling
---------------------------------------- | ------------------- |
-Minimum Size	| Minimum number of instances that should always be running.	|
-Maximum Size	| Maximum number of running instances.	|
-Desired Capacity	| Number of instances that should be running when there are no scaling activites.	|
 	
 
 Characteristics of Auto Scaling	 | Details |
