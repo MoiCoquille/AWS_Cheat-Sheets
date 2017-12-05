@@ -1,5 +1,6 @@
-# AWS_Cheat-Sheets
-AWS EC2 Cheat Sheet
+# AWS EC2 Cheat Sheet
+
+<br />
 
 Includes
 * Types of Instances
@@ -12,6 +13,8 @@ Includes
 * Placement Group
 * Auto Scaling
 * ELB Elastic Load Balancing
+
+<br />
 
 by Veronique Robitaille  
 AWS Solutions Architect  
