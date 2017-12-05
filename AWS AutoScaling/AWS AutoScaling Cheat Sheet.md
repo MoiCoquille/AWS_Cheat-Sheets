@@ -6,10 +6,21 @@ by Veronique Robitaille (v@indalit.com)
 
 <br />
 
-What is Auto Scaling?	|
----------------------- |
-A method by which you can have instances added/removed on the fly.	|
-	
+
+<table>
+	<tr>
+		<td>
+			What is Auto Scaling?
+		</td>
+		<td>
+			A method by which you can have instances added/removed on the fly.
+		</td>
+	</tr>
+
+</table>	
+
+
+
 Configuration Elements of Auto Scaling
 --------------------------------------- | ------------------- |
 Minimum Size	| Minimum number of instances that should always be running.	|
