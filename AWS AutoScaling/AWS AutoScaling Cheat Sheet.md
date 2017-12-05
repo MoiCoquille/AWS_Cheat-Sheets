@@ -2,7 +2,7 @@
 by Veronique Robitaille (v@indalit.com) 
 <br />
 
-** Check out PDF version **
+__ Check out PDF version __
 
 <br />
 
