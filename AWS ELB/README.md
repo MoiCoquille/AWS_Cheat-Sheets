@@ -1,5 +1,6 @@
-# AWS_Cheat-Sheets
-AWS ELB Cheat Sheet
+# AWS Elastic Load Balancing (ELB) Cheat Sheet
+
+<br />
 
 Includes
 * Protocols supported 
@@ -32,6 +33,8 @@ Includes
 * Cross-zone load balancing
 * Static IP on ELB
 * EIP, Elastic IP on ELB
+
+<br />
 
 by Veronique Robitaille  
 AWS Solutions Architect  
