@@ -1,5 +1,4 @@
-# AWS Cheat Sheet
-Amazon Glacier Cheat Sheet
+# Amazon Glacier Cheat Sheet
 
 <br />
 
