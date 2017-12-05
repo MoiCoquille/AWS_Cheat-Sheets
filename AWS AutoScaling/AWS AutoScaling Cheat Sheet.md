@@ -10,9 +10,11 @@ by Veronique Robitaille (v@indalit.com)
 <table>
 	<tr>
 		<td>What is Auto Scaling?</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>A method by which you can have instances added/removed on the fly.</td>
+		<td></td>
 	</tr>
 </table>	
 
