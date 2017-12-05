@@ -1,7 +1,9 @@
 **Amazon Glacier Cheat Sheet**  
 by Veronique Robitaille (v@indalit.com) 
   
-**!!! Download PDF for single page formatting !!!** 
+<br />
+**!!! Check out PDF version !!!**
+<br />
 
 General Characteristics	|
 ----------------------- |
