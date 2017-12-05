@@ -9,7 +9,7 @@ by Veronique Robitaille (v@indalit.com)
 
 <table>
 	<tr>
-		<td colspan="2"><b><center>What is Auto Scaling?</center></b></td>
+		<td align="center" colspan="2"><b>What is Auto Scaling?</b></td>
 	</tr>
 	<tr>
 		<td>A method by which you can have instances added/removed on the fly.</td>
