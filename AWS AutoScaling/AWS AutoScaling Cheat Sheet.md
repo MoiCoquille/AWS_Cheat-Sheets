@@ -10,7 +10,7 @@ What is Auto Scaling?	|
 ---------------------- |
 A method by which you can have instances added/removed on the fly.	|
 	
-Configuration Elements of Auto Scaling	| Details |
+Configuration Elements of Auto Scaling	| 	 |
 --------------------------------------- | ------------------- |
 Minimum Size	| Minimum number of instances that should always be running.	|
 Maximum Size	| Maximum number of running instances.	|
