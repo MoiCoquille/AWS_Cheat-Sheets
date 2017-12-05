@@ -1,5 +1,6 @@
-# AWS_Cheat-Sheets
-AWS Auto Scaling Cheat Sheet
+# AWS Auto Scaling Cheat Sheet
+
+<br />
 
 Includes
 * What is Auto Scaling?
@@ -11,6 +12,8 @@ Includes
 * Components of Auto Scaling
 * Customer Termination Policy
 * Pricing
+
+<br />
 
 by Veronique Robitaille  
 AWS Solutions Architect  
