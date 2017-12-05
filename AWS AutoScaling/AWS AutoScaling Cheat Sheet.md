@@ -9,7 +9,7 @@ by Veronique Robitaille (v@indalit.com)
 
 <table>
 	<tr>
-		<td>What is Auto Scaling?</td>
+		<td><b>What is Auto Scaling?</b></td>
 		<td></td>
 	</tr>
 	<tr>
