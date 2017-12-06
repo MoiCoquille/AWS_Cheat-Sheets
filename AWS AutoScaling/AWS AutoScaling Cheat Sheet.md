@@ -38,11 +38,11 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Lifecycle Hooks</td>
 		<td>They perform custom actions at launch and termination of an instance.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Termination Protection</td>
 		<td>Instances can be protected from a scale-in activity to keep them running.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Automatic Balancing of instances</td>
 		<td>If you have more than one AZ then Auto Scaling will automatically balance them.</td>
 	</tr>
@@ -56,7 +56,7 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">CloudWatch Metrics to monitor the instances and tell Auto Scaling when an instance is unhealthy.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td colspan="2">CloudWatch Events which monitors specific events like launching or terminating an instance and when Lifecycle Actions occur.</td>
 	</tr>
 
@@ -72,24 +72,23 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Auto Scaling Groups per region</td>
 		<td align="center">20</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Scaling Policies per group</td>
 		<td align="center">50</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Scheduled Actions per group</td>
 		<td align="center">125</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Lifecycle Hooks per group</td>
 		<td align="center">50</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Step Adjustments per Scaling Policy</td>
 		<td align="center">20</td>
 	</tr>
-		</tr>
-		<tr>
+	<tr>
 		<td>Launch Configuration per group</td>
 		<td align="center">1</td>
 	</tr>
