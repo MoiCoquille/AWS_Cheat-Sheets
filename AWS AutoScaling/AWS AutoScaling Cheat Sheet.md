@@ -29,7 +29,6 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Desired Capacity</td>
 		<td>Number of instances that should be running when there are no scaling activites.</td>
 	</tr>
-</table>
 	<tr>
 		<td align="center" colspan="2"><b>Characteristics of Auto Scaling</b></td>
 	</tr>
@@ -45,7 +44,6 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Automatic Balancing of instances</td>
 		<td>If you have more than one AZ then Auto Scaling will automatically balance them.</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Monitoring</b></td>
 	</tr>
@@ -58,7 +56,6 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">CloudWatch Events which monitors specific events like launching or terminating an instance and when Lifecycle Actions occur.</td>
 	</tr>
-
 	<tr>
 		<td align="center"><b>Limits</b></td>
 		<td align="center"><b>Number</b></td>
@@ -91,7 +88,6 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Launch Configuration per group</td>
 		<td align="center">1</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Types of Auto Scaling</b></td>
 	</tr>
@@ -123,7 +119,6 @@ by Veronique Robitaille (v@indalit.com)
 		<td>(3) Target Tracking Scaling Policy</td>
 		<td>Keeps instance at a fixed level using, for example, CPU utilization.</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Components of Auto Scaling</b></td>
 	</tr>
@@ -142,7 +137,6 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">When more than one Scaling Policy for an Auto Scaling Group, Auto Scaling will choose a policy with the highest impact on the number of instances.</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Custom Termination Policy </b></td>
 	</tr>
@@ -152,7 +146,6 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">Then choose from the following: OldestInstance, NewestInstance, OldestLaunchConfiguration, Default AWS Termination Policy</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Pricing </b></td>
 	</tr>
