@@ -8,6 +8,7 @@ by Veronique Robitaille (v@indalit.com)
 
 
 <table>
+
 	<tr>
 		<td align="center" colspan="2"><b>What is Auto Scaling?</b></td>
 	</tr>
@@ -22,11 +23,11 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Minimum Size</td>
 		<td>Minimum number of instances that should always be running.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Maximum Size</td>
 		<td>Maximum number of running instances.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>Desired Capacity</td>
 		<td>Number of instances that should be running when there are no scaling activites.</td>
 	</tr>
@@ -120,7 +121,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td>(2) Step Scaling Policy</td>
 		<td>Like Simple Scaling but has multiple stepsto scale.  These steps are called Step Adjustments.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>(3) Target Tracking Scaling Policy</td>
 		<td>Keeps instance at a fixed level using, for example, CPU utilization.</td>
 	</tr>
