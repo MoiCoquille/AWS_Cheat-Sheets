@@ -8,7 +8,6 @@ by Veronique Robitaille (v@indalit.com)
 
 
 <table>
-
 	<tr>
 		<td align="center" colspan="2"><b>What is Auto Scaling?</b></td>
 	</tr>
@@ -16,6 +15,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">A method by which you can have instances added/removed on the fly.</td>
 	</tr>
 </table>
+
 	<tr>
 		<td align="center" colspan="2"><b>Configuration Elements of Auto Scaling</b></td>
 	</tr>
