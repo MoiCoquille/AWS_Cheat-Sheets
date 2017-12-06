@@ -14,7 +14,6 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">A method by which you can have instances added/removed on the fly.</td>
 	</tr>
-
 	<tr>
 		<td align="center" colspan="2"><b>Configuration Elements of Auto Scaling</b></td>
 	</tr>
