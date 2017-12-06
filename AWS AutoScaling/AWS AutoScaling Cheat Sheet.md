@@ -30,7 +30,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Desired Capacity</td>
 		<td>Number of instances that should be running when there are no scaling activites.</td>
 	</tr>
-
+</table>
 	<tr>
 		<td align="center" colspan="2"><b>Characteristics of Auto Scaling</b></td>
 	</tr>
