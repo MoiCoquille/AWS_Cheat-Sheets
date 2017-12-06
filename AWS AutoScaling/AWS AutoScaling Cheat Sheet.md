@@ -14,7 +14,6 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">A method by which you can have instances added/removed on the fly.</td>
 	</tr>
-</table>
 
 	<tr>
 		<td align="center" colspan="2"><b>Configuration Elements of Auto Scaling</b></td>
@@ -161,5 +160,4 @@ by Veronique Robitaille (v@indalit.com)
 	<tr>
 		<td colspan="2">This service is part of EC2 and is provided for free.  You pay for the instances you use.</td>
 	</tr>
-
 </table>	
