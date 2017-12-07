@@ -4,6 +4,8 @@ by Veronique Robitaille (v@indalit.com)
 <br />
 **!!! Check out PDF version !!!**
 <br />
+<br />
+
 
 Types of Instances	|	Details |
 ------------------- | ----------------
