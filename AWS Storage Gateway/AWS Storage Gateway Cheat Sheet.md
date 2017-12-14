@@ -1,9 +1,6 @@
 # AWS Storage Gateway Cheat Sheet 
 by Veronique Robitaille (v@indalit.com) 
 <br />
-
-### Check out PDF version 
-
 <br />
 
 <table>
