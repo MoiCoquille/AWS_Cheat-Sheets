@@ -101,7 +101,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">Max 1 file share per S3 bucket, max 10 file shares per Gateway and max size of a file is 5TB.</td>
 	</tr>
 	<tr>
-		<td colspan="2">Optimized data transfer:</td>
+		<td colspan="2"><b>Optimized data transfer:</b></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -130,7 +130,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">When considering local storage size, need to take into account size of file store and upload buffer.</td>
 	</tr>
 	<tr>
-		<td colspan="2">Cached Volumes:</td>
+		<td colspan="2"><b>Cached Volumes:</b></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -153,7 +153,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td>Data not available via S3</td>
 	</tr>
 	<tr>
-		<td colspan="2">Stored Volumes:</td>
+		<td colspan="2"><b>Stored Volumes:</b></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -199,7 +199,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">Asynchronous backups.</td>
 	</tr>
 	<tr>
-		<td colspan="2">Supported Backup Applications:</td>
+		<td colspan="2"><b>Supported Backup Applications:</b></td>
 	</tr>
 	<tr>
 		<td></td>
