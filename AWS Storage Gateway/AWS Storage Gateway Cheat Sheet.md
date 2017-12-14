@@ -12,21 +12,21 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td></td>
-		<td>File Gateway</td>
+		<td>- File Gateway</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Volume Gateway</td>
+		<td>- Volume Gateway</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Tape Gateway</td>
+		<td>- Tape Gateway</td>
 	</tr>
 		<tr>
 		<td colspan="2">You install the Gateways with a provided image on a	on-premises server VM.  Also possible on an instance.</td>
 	</tr>
 	<tr>
-		<td colspan="2">VM software is either Vmware ESXi or Microsoft Hyper-V.</td>
+		<td colspan="2">VM software is either VMware ESXi or Microsoft Hyper-V.</td>
 	</tr>
 	<tr>
 		<td colspan="2">Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</td>
@@ -36,6 +36,9 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td colspan="2">Data transfer from Gateway to S3 and Glacier uses SSL.</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center" colspan="2"><b>Gateway Minimum Hardware Requirements</b></td>
@@ -54,6 +57,9 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td colspan="2">Updates and patches automatically deployed during weekly maintenance schedule.  Short downtime.</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center" colspan="2"><b>Pricing of Storage Gateway</b></td>
@@ -77,6 +83,9 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">Data transfer OUT from AWS Storage Gateway service to EC2 hosted Gateway and on-premises Gateway</td>
 	</tr>
 	<tr>
+		<td align="center" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
 		<td align="center" colspan="2"><b>File Gateway</b></td>
 	</tr>
 	<tr>
@@ -92,7 +101,7 @@ by Veronique Robitaille (v@indalit.com)
 		<td colspan="2">On S3, lifecycle policies, cross-region replication and versioning are available features.</td>
 	</tr>
 	<tr>
-		<td colspan="2">Asynchronously updates the objects on S3.l</td>
+		<td colspan="2">Asynchronously updates the objects on S3.</td>
 	</tr>
 	<tr>
 		<td colspan="2">Max 1 file share per S3 bucket, max 10 file shares per Gateway and max size of a file is 5TB.</td>
@@ -102,11 +111,14 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td></td>
-		<td>Uses multipart uploads and copy put, so only changed data is uploaded to S3.</td>
+		<td>- Uses multipart uploads and copy put, so only changed data is uploaded to S3.</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Uses byte-range downloads.</td>
+		<td>- Uses byte-range downloads.</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center" colspan="2"><b>Volume Gateway</b></td>
@@ -131,43 +143,46 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td></td>
-		<td>Store data on S3</td>
+		<td>- Store data on S3</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Cache frequently accessed data locally</td>
+		<td>- Cache frequently accessed data locally</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Max volume size 32TB, max storage 1PB</td>
+		<td>- Max volume size 32TB, max storage 1PB</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Allocate minimum 20% of file store size to local cache storage (hard drives)</td>
+		<td>- Allocate minimum 20% of file store size to local cache storage (hard drives)</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Data not available via S3</td>
+		<td>- Data not available via S3</td>
 	</tr>
 	<tr>
 		<td colspan="2"><b>Stored Volumes:</b></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Data stored locally (on Gateway)</td>
+		<td>- Data stored locally (on Gateway)</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Asynchronous backup via snapshots to S3</td>
+		<td>- Asynchronous backup via snapshots to S3</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Max volume size 16TB, max storage 512TB</td>
+		<td>- Max volume size 16TB, max storage 512TB</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Map storage volumes to on-premises DAS or SAN using iSCSI</td>
-	</tr>		
+		<td>- Map storage volumes to on-premises DAS or SAN using iSCSI</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">&nbsp;</td>
+	</tr>	
 	<tr>
 		<td align="center" colspan="2"><b>Tape Gateway (VTL Virtural Tape Library)</b></td>
 	</tr>
@@ -200,34 +215,34 @@ by Veronique Robitaille (v@indalit.com)
 	</tr>
 	<tr>
 		<td></td>
-		<td>Arcserve Backup</td>
+		<td>- Arcserve Backup</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Commvault</td>
+		<td>- Commvault</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>DellNetvault Backup</td>
+		<td>- DellNetvault Backup</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>EMC Networker</td>
+		<td>- EMC Networker</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>HPE Data Protector</td>
+		<td>- HPE Data Protector</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Microsoft System Center Data Protection Manager</td>
+		<td>- Microsoft System Center Data Protection Manager</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Veeam Backup and Replication</td>
+		<td>- Veeam Backup and Replication</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>Veritas Backup Exec</td>
+		<td>- Veritas Backup Exec</td>
 	</tr>
 </table>	
