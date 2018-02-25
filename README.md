@@ -11,6 +11,13 @@ A collection of Cheat Sheets created for each AWS service.
 
 <br />
 
+They are posted to the following links:
+* [www.indalit.com](https://www.indalit.com)
+* [Moicoquille Twitter](https://twitter.com/moicoquille)
+* [AWS Valencia Twitter](https://twitter.com/awsvalenciaes)
+* [Indalit Twitter](https://twitter.com/indalitcloud)
+* [Veronique Robitaille LinkedIn](https://www.linkedin.com/in/veroniqueheitor/)
+
 by Veronique Robitaille  
 AWS Solutions Architect  
 v@indalit.com  
