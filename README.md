@@ -17,6 +17,7 @@ They are posted to the following links:
 * [AWS Valencia Twitter](https://twitter.com/awsvalenciaes)
 * [Indalit Twitter](https://twitter.com/indalitcloud)
 * [Veronique Robitaille LinkedIn](https://www.linkedin.com/in/veroniqueheitor/)
+* [Indalit LinkedIn](https://www.linkedin.com/company/indalit-cloud-consulting/) (soon)
 
 by Veronique Robitaille  
 AWS Solutions Architect  
